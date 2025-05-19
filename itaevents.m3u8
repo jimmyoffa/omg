@@ -323,6 +323,12 @@ https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
 
+#EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
+
 #EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Early Rounds - 19/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
